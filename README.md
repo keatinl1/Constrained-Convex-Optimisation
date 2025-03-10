@@ -21,14 +21,14 @@ Secondly by solving a relaxed version of the KKT conditions using Newtons method
 ## Results
 The results firstly for the solving of the dual problem are shown in figure 1. The optimiser goes to the true minima, before constraint violations are penalised by the multipliers and the optimal solution is brought back toward the feasible area. 
 
-![alt text](https://raw.githubusercontent.com/keatinl1/Constrained-Convex-Optimisation/refs/heads/main/solve_dual.png)
+![alt text](https://raw.githubusercontent.com/keatinl1/Constrained-Convex-Optimisation/refs/heads/main/figures/solve_dual.png)
 <p align="center">
 Figure 1
 </p>
 
 The results for the interior point method is shown in figure 2. The optimal solution is alway in the feasible area (hence the name) and it too eventually reaches the optimal solution also.
 
-![alt text](https://raw.githubusercontent.com/keatinl1/Constrained-Convex-Optimisation/refs/heads/main/interior_point.png)
+![alt text](https://raw.githubusercontent.com/keatinl1/Constrained-Convex-Optimisation/refs/heads/main/figures/interior_point.png)
 <p align="center">
 Figure 2
 </p>
