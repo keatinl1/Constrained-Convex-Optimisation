@@ -1,7 +1,7 @@
 # Constrained convex optimisation
 
 ## Why?
-Constrained convex optimisation appears in multiple areas of control engineering. From predictive and optimal controllers (MPC), to robust controllers (LPV, $H_{\infty}$) to control barrier and control Lyapunov functions. Constrained convex optimisation is a useful tool to understand and to be able to use. 
+Constrained convex optimisation appears in multiple areas of control engineering. From predictive and optimal controllers (MPC), to robust controllers (LPV, $H_{\infty}$), to control barrier and control Lyapunov functions. Constrained convex optimisation is a useful tool to understand and to be able to use. 
 
 ## How?
 I obtained the optimal solution two ways for the convex constrained problem below,
@@ -26,7 +26,7 @@ The results firstly for the solving of the dual problem are shown in figure 1. T
 Figure 1
 </p>
 
-The results for the interior point method is shown in figure 2. The optimal solution is alway in the feasible region (hence the name) and it too eventually reaches the optimal solution also.
+The results for the interior point method is shown in figure 2. The optimal solution is always in the feasible region (hence the name) and it too eventually reaches the optimal solution.
 
 ![alt text](https://raw.githubusercontent.com/keatinl1/Constrained-Convex-Optimisation/refs/heads/main/figures/interior_point.png)
 <p align="center">
