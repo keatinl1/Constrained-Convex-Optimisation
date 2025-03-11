@@ -1,7 +1,7 @@
 # Constrained convex optimisation
 
 ## Why?
-Constrained convex optimisation appears in multiple areas of control engineering. From predictive and optimal controllers (MPC), to robust controllers (LPV, $H_{\infty}$), to control barrier and control Lyapunov functions. Constrained convex optimisation is a useful tool to understand and to be able to use. 
+Constrained convex optimisation appears in multiple areas of control engineering. From predictive and optimal controllers (MPC, LQR), to robust controllers (LPV, $H_{\infty}$), to control barrier and control Lyapunov functions. Constrained convex optimisation is a useful tool to understand and to be able to use. 
 
 ## How?
 I obtained the optimal solution two ways for the convex constrained problem below,
